@@ -142,6 +142,3 @@ os-systems-projects/
 
 ---
 
-## Course Context
-
-Projects for **COP 4600 — Operating Systems** at the University of South Florida.
